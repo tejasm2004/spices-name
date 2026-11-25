@@ -1,0 +1,8 @@
+{
+  "name": "Malnad Pudi House",
+  "description": "Small-batch Indian chutney pudis, Udupi sambar powder, and heirloom spice blends slow-roasted and stone-ground fresh every week.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
